@@ -16,10 +16,12 @@ To use this demo, you will need to deploy the solution into your own Azure subsc
 | [How API Management supports monetization](https://docs.microsoft.com/azure/api-management/monetization-support)                     | Provides an overview of the API Management features that can be used to accelerate and de-risk API monetization. |
 | [How to implement monetization with Azure API Management and Stripe](./documentation/stripe-details.md) | Describes how the Stripe integration has been implemented and the user flow through the solution.      |
 | [Deploy demo with Stripe](./documentation/stripe-deploy.md)                                             | End to end deployment steps to implement the demo project with Stripe as payment provider.             |
+! [Video guide for Stripe payments](https://www.youtube.com/watch?v=tO4UMGbrgrQ)                          | Video guide with setup of payment provider                                                             |
 | [How to implement monetization with Azure API Management and Adyen](./documentation/adyen-details.md)   | Describes how the Adyen integration has been implemented and the user flow through the solution.       |
 | [Deploy demo with Adyen](./documentation/adyen-deploy.md)                                               | End to end deployment steps to implement the demo project with Adyen as payment provider.              |
 | [Deployment details](./documentation/deployment-details.md)                                             | Details the resources that are deployed and the approach taken to script the deployment.               |
 | [Advanced steps](./documentation/advanced-steps.md)                                                     | Details of advanced steps to modify the infrastructure templates and run the billing app locally.      |
+ 
 
 ## Steps to follow
 
